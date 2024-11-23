@@ -1,0 +1,57 @@
+header img {
+    margin:0 auto;
+    display: block;
+}
+
+h1 {
+    font-family:sans-serif;
+    text-align:center;
+}
+
+.section1 {
+    text-align: left;
+}
+
+.section2 {
+    text-align:center;
+}
+
+.section3 {
+    text-align:right;
+}
+
+nav {
+   margin: 18px 0px;
+   padding: 20px 0px;
+   text-align: center;
+   background-color: black;
+   border-radius: 15px;
+}
+
+nav a {
+    color:black;
+    font-family: sans-serif;
+    margin: 18px;
+    padding: 10px 5px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 10px;
+}
+header {
+    background-color: 
+}
+
+footer {
+    background-color: black;
+    padding: 20px;
+}
+
+footer a {
+    color:black;
+    font-family: sans-serif;
+    margin: 8px;
+    padding: 10px 5px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 10px;
+}
