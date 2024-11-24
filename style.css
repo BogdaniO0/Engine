@@ -6,6 +6,7 @@ header img {
 h1 {
     font-family:sans-serif;
     text-align:center;
+    text-transform: uppercase;
 }
 
 .section1 {
@@ -92,4 +93,16 @@ main img {
     display: block;
     width: 180px;
     height: 200px;
+}
+
+.facts {
+    font-size: 50px;
+}
+
+.facts1 {
+    font-size: 34px;
+}
+
+.facts2 {
+    font-size: 25px;
 }
