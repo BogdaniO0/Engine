@@ -20,7 +20,7 @@ h1 {
     text-align:right;
 }
 
-nav {
+.nav {
    margin: 18px 0px;
    padding: 20px 0px;
    text-align: center;
@@ -28,25 +28,15 @@ nav {
    border-radius: 15px;
 }
 
-nav a {
-    color:black;
-    font-family: sans-serif;
-    margin: 18px;
-    padding: 10px 5px;
-    text-decoration: none;
-    background-color: white;
-    border-radius: 10px;
-}
 header {
     background-color: 
 }
 
 footer {
     background-color: black;
-    padding: 20px;
 }
 
-footer a {
+.nav a {
     color:black;
     font-family: sans-serif;
     margin: 8px;
@@ -54,4 +44,52 @@ footer a {
     text-decoration: none;
     background-color: white;
     border-radius: 10px;
+    font-size: 17px;
+}
+
+.nav2 {
+    margin: 18px 0px;
+   padding: 20px 0px;
+   text-align: center;
+   background-color: black;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+main p {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.nav2 a {
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 5px;
+    padding: 15px 5px;
+}
+
+.nav2 {
+    margin: 18px 0px;
+   padding: 20px 0px;
+   text-align: center;
+}
+
+main img {
+    margin:0 auto;
+    display: block;
+    width: 90px;
+    height: 200px;
+}
+
+.rotary {
+    margin:0 auto;
+    display: block;
+    width: 180px;
+    height: 200px;
 }
