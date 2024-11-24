@@ -91,7 +91,7 @@ main img {
 .rotary {
     margin:0 auto;
     display: block;
-    width: 180px;
+    width: 160px;
     height: 200px;
 }
 
@@ -105,4 +105,8 @@ main img {
 
 .facts2 {
     font-size: 25px;
+}
+
+.pr {
+    font-size: 18px;
 }
