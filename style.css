@@ -68,7 +68,7 @@ main p {
 
 .nav2 a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
     font-family: sans-serif;
     font-size: 18px;
     margin: 5px;
@@ -96,7 +96,7 @@ main img {
 }
 
 .facts {
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .facts1 {
@@ -109,4 +109,8 @@ main img {
 
 .pr {
     font-size: 18px;
+}
+
+body {
+    margin: 50px;
 }
